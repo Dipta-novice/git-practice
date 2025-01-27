@@ -1,3 +1,3 @@
-## Practice git
+### Practice git and github
 
 git
